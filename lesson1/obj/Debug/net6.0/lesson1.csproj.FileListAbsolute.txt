@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\bin\Debug\net6.0\lesson1.exe
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\bin\Debug\net6.0\lesson1.deps.json
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\bin\Debug\net6.0\lesson1.runtimeconfig.json
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\bin\Debug\net6.0\lesson1.dll
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\bin\Debug\net6.0\lesson1.pdb
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.dll
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\refint\lesson1.dll
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.pdb
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\lesson1.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\geekbrains\csharp_leaning\lesson1\obj\Debug\net6.0\ref\lesson1.dll
